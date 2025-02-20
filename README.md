@@ -4,11 +4,11 @@ Ejemplo basico de una aplicacion en Spring Boot (Hola Mundo)
 
 Requisitos: 
 Tener instalado Java JDK 21 (Amazon Toretto 21)
-maven
+Maven
 Algun IDE(VS Code)
 
-Clonar el reporsitorio
-git clone 
+Clonar el reporsitorio:
+git clone https://github.com/UrielRdzG/HolaSpring.git
 
 Ejecutar la aplicacion:
 Correr (Run java) el archivo HolaMundoApplication.java 
