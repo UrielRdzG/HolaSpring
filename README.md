@@ -14,3 +14,6 @@ Ejecutar la aplicacion:
 Correr (Run java) el archivo HolaMundoApplication.java 
 Una vez la aplicacion este corriendo abrir el navegador y acceder al enlace: http://localhost:8080/hola
 
+NOTA: Si el puerto 8080 esta ocupado, se puede cambiar en application.properties introduciendo el siguiente codigo:
+server.port=8081 // O algun puerto disponible
+
